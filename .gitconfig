@@ -1,0 +1,10 @@
+[user]
+	email = joelmjacob27@gmail.com
+	name = Joel Jacob
+	name = “Joel
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
